@@ -2,6 +2,7 @@
 <div align="center">
     <h1>
     <img src="./src/img/powershell.jpg" width="250px"/>
+    <br>
      Comandos React Dos - PowerShell
     </h1>
 </div>
