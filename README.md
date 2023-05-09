@@ -1,4 +1,15 @@
+
+<div align="center">
+    <img src="https://www.fullstackpython.com/img/logos/powershell.png width="150px"/>
+    <h1>
+     Comandos React Dos - PowerShell
+    </h1>
+</div>
+
 # Comandos React Dos
+
+
+
 
 ## Dos Commands, PowerShell:
 ```npm
@@ -37,7 +48,7 @@ npm i @types/styled-components -D
 yarn add styled-components
 ```
 
-### Raact Icons - Icons Svg
+### React Icons - Icons Svg
 https://react-icons.github.io/react-icons/
 ```npm
 npm i react-icons 
