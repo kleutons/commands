@@ -16,9 +16,14 @@ npm -v
 yarn -v
 ```
 
-## Istall NPM Update
+## Istall NPM Update And Yarn
+NPM Update 
 ```npm
 npm install -g npm@9
+```
+Install Yarn
+```npm
+npm install --global yarn
 ```
 
 ## Components
