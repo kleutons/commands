@@ -3,17 +3,17 @@
     <h1>
     <img src="./src/img/powershell.jpg" width="250px"/>
     <br>
-     <img src="./src/img/logo192.png" width="40x"/> Comandos React - DosPowerShell
+     <img src="./src/img/logo192.png" width="40x"/> Comandos React - Dos PowerShell
     </h1>
 </div>
 
 ## Dos Commands, PowerShell:
 ```npm
-dir -> list folder
-ls -> list folder
-cd [namePate]  -> Open folder
-mkdir [namePaste] -> Create folder
-code . -> open folder VsCode
+dir                 -> list folder
+ls                  -> list folder
+cd [nameFolder]     -> Open folder
+mkdir [nameFolder]  -> Create folder
+code .              -> open folder VsCode
 ```
 
 ## Versions:
