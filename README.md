@@ -3,7 +3,7 @@
     <h1>
     <img src="./src/img/powershell.jpg" width="250px"/>
     <br>
-     <img src="./src/img/logo192.png" width="40x"/> Comandos React - Dos PowerShell
+     <img src="./src/img/logo192.png" width="40x"/> Commands React - Dos PowerShell
     </h1>
 </div>
 
@@ -31,6 +31,21 @@ npm install -g npm@9
 Install Yarn
 ```npm
 npm install --global yarn
+```
+
+## Creat APP NPX
+```npm
+npx create-react-app [nameApp]
+```
+```npm
+npx create-react-app [nameApp] --template typescript
+```
+
+### NPM 
+```npm
+npm start
+npm test
+npm run build
 ```
 
 ## Components
