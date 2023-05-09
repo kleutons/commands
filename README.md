@@ -65,7 +65,12 @@ https://react-icons.github.io/react-icons/
 npm i react-icons 
 npm i @types/react-icons -D
 ```
-
+### React Router Dom - Rotas
+https://reactrouter.com/en/main
+```npm
+npm i react-router-dom
+npm i @types/react-router-dom -D
+```
 ### Axios
 ```npm
 npm i axios
