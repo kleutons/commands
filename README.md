@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://www.fullstackpython.com/img/logos/powershell.png width="150px"/>
+    <img src="./src/img/powershell.jpg" width="150px"/>
     <h1>
      Comandos React Dos - PowerShell
     </h1>
