@@ -1,15 +1,10 @@
 
 <div align="center">
-    <img src="./src/img/powershell.jpg" width="150px"/>
     <h1>
+    <img src="./src/img/powershell.jpg" width="250px"/>
      Comandos React Dos - PowerShell
     </h1>
 </div>
-
-# Comandos React Dos
-
-
-
 
 ## Dos Commands, PowerShell:
 ```npm
