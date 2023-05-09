@@ -3,7 +3,7 @@
     <h1>
     <img src="./src/img/powershell.jpg" width="250px"/>
     <br>
-     Comandos React Dos - PowerShell
+     <img src="./src/img/logo192.png" width="40x"/> Comandos React - DosPowerShell
     </h1>
 </div>
 
