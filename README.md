@@ -73,21 +73,15 @@ npm i react-router-dom
 npm i @types/react-router-dom -D
 ```
 
-### JsonwebToken
+
+### Nodejs - JsonwebToken
 https://www.npmjs.com/package/jsonwebtoken
 ```npm
 npm i jsonwebtoken
 npm i @types/jsonwebtoken -D
 ```
 
-### JsonwebToken
-https://www.npmjs.com/package/jsonwebtoken
-```npm
-npm i jsonwebtoken
-npm i @types/jsonwebtoken -D
-```
-
-### Bcryptjs
+### Nodejs -  Bcryptjs
 https://www.npmjs.com/package/bcryptjs
 ```npm
 npm i bcryptjs
