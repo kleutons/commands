@@ -61,6 +61,7 @@ yarn add styled-components
 
 ### React Icons - Icons Svg
 https://react-icons.github.io/react-icons/
+https://www.freecodecamp.org/portuguese/news/como-usar-icones-svg-no-react-com-o-react-icons-e-com-o-font-awesome/
 ```npm
 npm i react-icons 
 npm i @types/react-icons -D
@@ -71,7 +72,32 @@ https://reactrouter.com/en/main
 npm i react-router-dom
 npm i @types/react-router-dom -D
 ```
+
+### JsonwebToken
+https://www.npmjs.com/package/jsonwebtoken
+```npm
+npm i jsonwebtoken
+npm i @types/jsonwebtoken -D
+```
+
+### JsonwebToken
+https://www.npmjs.com/package/jsonwebtoken
+```npm
+npm i jsonwebtoken
+npm i @types/jsonwebtoken -D
+```
+
+### Bcryptjs
+https://www.npmjs.com/package/jsonwebtoken
+```npm
+npm i bcryptjs
+npm i @types/bcryptjs -D
+```
+
+
 ### Axios
 ```npm
 npm i axios
 ```
+
+
