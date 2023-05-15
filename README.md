@@ -88,7 +88,7 @@ npm i @types/jsonwebtoken -D
 ```
 
 ### Bcryptjs
-https://www.npmjs.com/package/jsonwebtoken
+https://www.npmjs.com/package/bcryptjs
 ```npm
 npm i bcryptjs
 npm i @types/bcryptjs -D
