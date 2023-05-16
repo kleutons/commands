@@ -73,7 +73,7 @@ npm i react-router-dom
 npm i @types/react-router-dom -D
 ```
 
-### React Router Dom - Rotas
+### React LEGACY
 Permitir a instalação de pacotes com dependências antigas. 
 ```npm
 Ativa
