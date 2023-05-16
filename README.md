@@ -73,6 +73,16 @@ npm i react-router-dom
 npm i @types/react-router-dom -D
 ```
 
+### React Router Dom - Rotas
+Permitir a instalação de pacotes com dependências antigas. 
+```npm
+Ativa
+npm config set legacy-peer-deps true
+Retorna Valor
+npm config get legacy-peer-deps
+Desativa
+npm config delete legacy-peer-deps
+```
 
 ### Nodejs - JsonwebToken
 https://www.npmjs.com/package/jsonwebtoken
